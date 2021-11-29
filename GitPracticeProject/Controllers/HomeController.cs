@@ -17,6 +17,8 @@ namespace GitPracticeProject.Controllers
         {
             _logger = logger;
 
+
+
         }
 
         public IActionResult Index()
